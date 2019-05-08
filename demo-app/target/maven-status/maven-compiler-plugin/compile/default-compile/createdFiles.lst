@@ -1,0 +1,5 @@
+com\capgemini\demo\provider\HWMessageProvider.class
+com\capgemini\demo\test\App.class
+com\capgemini\demo\provider\GMMessageProvider.class
+com\capgemini\demo\provider\MessageProvider.class
+com\capgemini\demo\render\MessageRender.class
